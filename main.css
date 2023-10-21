@@ -1,0 +1,52 @@
+body {
+  background-color: #dfb96f;
+  color:rgb(0, 0, 0);
+  font-family: monospace;
+}
+
+.title {
+  font-size: 48px;
+  color: 	#44310e;
+  padding: 4px;
+}
+
+.itens {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.ação_do_botão {
+  background-color: rgb(9, 99, 6);
+  color: rgb(5, 0, 0);
+  font-family: monospace;
+  border-radius: 50px;
+  border-width: 0px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 8px;
+}
+
+.ação_do_botão2 {
+  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+  font-family:monospace;
+  border-radius: 46px;
+  border-width: 0px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 8px;
+}
+
+.Tem_interesse {
+  font-size: 38px;
+  margin-bottom: 18px;
+  font-family: monospace;
+padding: 8px;
+}
+
+.opa {
+  margin-top: 15px;
+  
+}
